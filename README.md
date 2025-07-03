@@ -23,4 +23,4 @@ This repository contains an interactive Power BI dashboard that analyzes restaur
 - **Country filter** on left sidebar to view data specific to selected countries.
 - All visuals are interactive and update based on selections.
 
-  "Note: The dataset used is available in the repo or can be accessed from Kaggle/Zomato."
+  "Note: The dataset used is from Kaggle/Zomato."
